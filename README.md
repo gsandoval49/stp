@@ -1,0 +1,2 @@
+# stp
+new lang > .py
